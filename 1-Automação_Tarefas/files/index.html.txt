@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Teste</title>
+</head>
+<body>
+    <div>
+        <h4 style="font-family: Arial, Helvetica, sans-serif; color: #000000;">Olá, boa noite</h4>
+        <p>Somos da empresa XYZ Automação expadindo a nossa empresa</p>
+        <p>Gostaria de saber se você tem interesse de uma conversa com a gente</p>
+        <p>Fico no aguardo do seu retorno</p>
+        <p>Att</p>
+        <h5>Dpto RH XYZ Automação</h5>
+        <h5>Fone (xx) xxxx-xxxx</h5>
+        <h5>e-mail: rh@xyzautomacao.com</h5>
+    </div>
+    </div style="padding: 40px 0px">
+        <div style="height: 500px; width: 400px;">
+            <img src="https://img-cdn.pixlr.com/image-generator/history/672e6ea5eb3e9682fa782992/732bf08c-d333-4ec1-a7f2-1885705f643a/preview.webp" style="height: 200px;">
+            <div>
+                <a target="_blank" href="https://github.com/danield352">Link para página</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
